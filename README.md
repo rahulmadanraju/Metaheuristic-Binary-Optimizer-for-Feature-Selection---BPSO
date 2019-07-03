@@ -5,13 +5,13 @@ The optimistic feature selection methodology which is used for feature selection
 
 The research works are carried out as Master Thesis in the university TU-Chemnitz, Germany.
 
-#Classification Function
+# Classification Function
 We can call any type of classifier wrt to machine learning/Deep Learning classifiers such as SVM, DT, KNN, LDA, CNN, etc.
 
 In order to check the performance on real time scenarios, we can use benchmark modal functions to verify the optimizer performance.
 
-#Initialization
+# Initialization
 It enables us to assign the no. of search agents which help in searching the points of best solution in the given search space.
 
-#Function plots
+# Function plots
 This code gives the resultant plot for a series of seaeching points in the search space and best possible outcomes for a series of operations carried out.
